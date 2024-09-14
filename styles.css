@@ -1,0 +1,88 @@
+/* General Elements */
+body {
+    margin: 0;
+} 
+
+.content {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    margin: auto;
+    width: 90%;
+    color: hsl(30, 10%, 34%);
+}
+
+h1, h2 {
+    font-family: 'Young Serif', serif;
+    font-weight: 400;
+    color: hsl(14, 45%, 36%);
+}
+
+h1 {
+    color: hsl(24, 5%, 18%);
+}
+
+span {
+    font-weight: 600;
+}
+
+h3 {
+    color:  hsl(332, 51%, 32%);
+}
+
+img {
+    width: 100%;
+    margin-top: 5%;
+    border-radius: 5%;
+}
+
+li {
+    margin: 4%;
+    list-style-type: square;
+}
+
+li::marker {
+    color: hsl(14, 45%, 36%);
+}
+
+.block {
+    background-color:  hsl(30, 18%, 87%);
+    height: 10vh;
+    width: 103vw;
+}
+
+/* Dividers */
+hr.solid {
+    border-top: 1px solid hsl(30, 54%, 90%);
+}
+
+/* Preparation Section */
+section + .prep {
+    background-color: hsl(330, 100%, 98%);
+    padding: 3%;
+}
+
+/* Table Section */
+.row {
+    border-bottom: 1px solid hsl(30, 54%, 90%);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.measurement {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+
+}
+/* Footer */
+footer {
+    text-align: center;
+    padding: 5vh 0;
+    background-color: hsl(30, 18%, 87%);
+    margin: 0%;
+    height: 10vh;
+    width: 103vw;
+}
+
+.attribution {
+    font-size: 16px;
+}
