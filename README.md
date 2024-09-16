@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/profile/SabrinaY123/solutions](https://www.frontendmentor.io/profile/SabrinaY123/solutions)
-- Live Site URL: [https://recipe-example.netlify.app/](https://recipe-example.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/profile/SabrinaY123/solutions](https://www.frontendmentor.io/profile/SabrinaY123/solutions )
+- Live Site URL : [https://recipe-example.netlify.app/](https://recipe-example.netlify.app/)
 
 ## My process
 
